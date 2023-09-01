@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/login-react/static/css/main.60abb526.css",
+    "main.js": "/login-react/static/js/main.8a58e76d.js",
+    "static/media/bg5.webp": "/login-react/static/media/bg5.8247dbfe6cfeac05b0dd.webp",
+    "index.html": "/login-react/index.html",
+    "main.60abb526.css.map": "/login-react/static/css/main.60abb526.css.map",
+    "main.8a58e76d.js.map": "/login-react/static/js/main.8a58e76d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60abb526.css",
+    "static/js/main.8a58e76d.js"
+  ]
+}
